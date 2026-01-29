@@ -37,6 +37,8 @@ dependencies:
   provider: ^6.1.5+1
   d_method: ^0.2.6
   d_input: ^2.0.0
+  http: ^1.6.0
+  extended_image: ^10.0.1
 
 dev_dependencies:
   flutter_test:
